@@ -1,5 +1,11 @@
+git status	//查看未保存文件
 git pull origin master		//将origin文件下载到master
 git add .	//暂存全部
 git commit -m""	//备注
 git push origin master	//将master文件上传到origin
+
+git log	//查看历史
+git branch		//查看所有分支
+git tag	//显示所有标签
+
 vim编辑模式 esc退出   ：wq保存退出
